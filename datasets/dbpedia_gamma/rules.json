@@ -1,0 +1,4450 @@
+[
+ {
+  "body_atoms": [
+   [
+    "a",
+    "owningCompany",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "owner",
+   "b"
+  ],
+  "pca": 1.0,
+  "std": 0.577709835,
+  "support": 7936,
+  "is_path": false,
+  "id": "R0048"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "portrayer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "designCompany",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 10,
+  "is_path": false,
+  "id": "R950072"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "militaryBranch",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "garrison",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 10,
+  "is_path": false,
+  "id": "R950073"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "voice",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "battle",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 10,
+  "is_path": false,
+  "id": "R950074"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "owningOrganisation",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "owner",
+   "b"
+  ],
+  "pca": 1.0,
+  "std": 0.999954722,
+  "support": 22085,
+  "is_path": false,
+  "id": "R0049"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "portrayer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "material",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 10,
+  "is_path": false,
+  "id": "R950147"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "militaryBranch",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "mergedWith",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 10,
+  "is_path": false,
+  "id": "R950148"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "voice",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "secondLeader",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 10,
+  "is_path": false,
+  "id": "R950149"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "developer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "bodyStyle",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 12,
+  "is_path": false,
+  "id": "R950071"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "owner",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "owningCompany",
+   "b"
+  ],
+  "pca": 1.0,
+  "std": 0.093713098,
+  "support": 7936,
+  "is_path": false,
+  "id": "R0051"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "developer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "powerType",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 12,
+  "is_path": false,
+  "id": "R950146"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "party",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "license",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 13,
+  "is_path": false,
+  "id": "R950035"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "languageRegulator",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "musicType",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 13,
+  "is_path": false,
+  "id": "R950037"
+ },
+ {
+  "body_atoms": [
+   [
+    "g",
+    "ground",
+    "b"
+   ],
+   [
+    "g",
+    "predecessor",
+    "a"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "homeStadium",
+   "b"
+  ],
+  "pca": 0.890814127,
+  "std": 0.707280147,
+  "support": 10745,
+  "is_path": true,
+  "id": "R0511"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "employer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "leaderFunction",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 13,
+  "is_path": false,
+  "id": "R950069"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "party",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "secondCommander",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 13,
+  "is_path": false,
+  "id": "R950110"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "languageRegulator",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "aircraftHelicopterCargo",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 13,
+  "is_path": false,
+  "id": "R950112"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "employer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "meetingRoad",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 13,
+  "is_path": false,
+  "id": "R950144"
+ },
+ {
+  "body_atoms": [
+   [
+    "h",
+    "ground",
+    "b"
+   ],
+   [
+    "a",
+    "predecessor",
+    "h"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "homeStadium",
+   "b"
+  ],
+  "pca": 0.891347588,
+  "std": 0.862124248,
+  "support": 10755,
+  "is_path": true,
+  "id": "R0507"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "founder",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "discoverer",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 15,
+  "is_path": false,
+  "id": "R950061"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "founder",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "fourthCommander",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 15,
+  "is_path": false,
+  "id": "R950136"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "lastAppearance",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "parentCompany",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 16,
+  "is_path": false,
+  "id": "R950065"
+ },
+ {
+  "body_atoms": [
+   [
+    "g",
+    "ground",
+    "b"
+   ],
+   [
+    "g",
+    "successor",
+    "a"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "homeStadium",
+   "b"
+  ],
+  "pca": 0.891737892,
+  "std": 0.72227501,
+  "support": 10642,
+  "is_path": true,
+  "id": "R0509"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "lastAppearance",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "tenant",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 16,
+  "is_path": false,
+  "id": "R950140"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "field",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "servingRailwayLine",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 17,
+  "is_path": false,
+  "id": "R950060"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "field",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "march",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 17,
+  "is_path": false,
+  "id": "R950135"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "regionServed",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "convictionPenalty",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 18,
+  "is_path": false,
+  "id": "R950028"
+ },
+ {
+  "body_atoms": [
+   [
+    "h",
+    "ground",
+    "b"
+   ],
+   [
+    "a",
+    "successor",
+    "h"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "homeStadium",
+   "b"
+  ],
+  "pca": 0.89190548,
+  "std": 0.850499401,
+  "support": 10644,
+  "is_path": true,
+  "id": "R0505"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "composer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "industry",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 18,
+  "is_path": false,
+  "id": "R950034"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "regionServed",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "aircraftBomber",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 18,
+  "is_path": false,
+  "id": "R950103"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "composer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "aircraftFighter",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 18,
+  "is_path": false,
+  "id": "R950109"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "ground",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "homeStadium",
+   "b"
+  ],
+  "pca": 0.99993766,
+  "std": 0.305169232,
+  "support": 16040,
+  "is_path": false,
+  "id": "R0069"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "regionServed",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "secondTeam",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 18,
+  "is_path": false,
+  "id": "R950178"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "languageFamily",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "musicComposer",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 19,
+  "is_path": false,
+  "id": "R950009"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "languageFamily",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "broadcastNetwork",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 19,
+  "is_path": false,
+  "id": "R950084"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "deathPlace",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "stateOfOrigin",
+   "b"
+  ],
+  "pca": 0.25,
+  "std": 0.25,
+  "support": 4,
+  "is_path": false,
+  "id": "R9002"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "languageFamily",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "secondPopularVote",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 19,
+  "is_path": false,
+  "id": "R950159"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "sisterCollege",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "formerTeam",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 21,
+  "is_path": false,
+  "id": "R950049"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "sisterCollege",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "structuralSystem",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 21,
+  "is_path": false,
+  "id": "R950124"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "district",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "headChef",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 22,
+  "is_path": false,
+  "id": "R950039"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "birthPlace",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "stateOfOrigin",
+   "b"
+  ],
+  "pca": 0.29,
+  "std": 0.29,
+  "support": 7,
+  "is_path": false,
+  "id": "R9001"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "district",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "aircraftHelicopter",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 22,
+  "is_path": false,
+  "id": "R950114"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "affiliation",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "timeZone",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 23,
+  "is_path": false,
+  "id": "R950045"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "affiliation",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "aircraftRecon",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 23,
+  "is_path": false,
+  "id": "R950120"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "country",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "stateOfOrigin",
+   "b"
+  ],
+  "pca": 0.29,
+  "std": 0.29,
+  "support": 6,
+  "is_path": false,
+  "id": "R9003"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "academicDiscipline",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "ingredient",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 25,
+  "is_path": false,
+  "id": "R950053"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "mediaType",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "gameEngine",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 25,
+  "is_path": false,
+  "id": "R950056"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "academicDiscipline",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "followingEvent",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 25,
+  "is_path": false,
+  "id": "R950128"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "mediaType",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "leader",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 25,
+  "is_path": false,
+  "id": "R950131"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "nationality",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "stateOfOrigin",
+   "b"
+  ],
+  "pca": 0.995630312,
+  "std": 0.333511566,
+  "support": 49899,
+  "is_path": false,
+  "id": "R0091"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "editor",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "previousEditor",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 26,
+  "is_path": false,
+  "id": "R950067"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "residence",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "operatingSystem",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 26,
+  "is_path": false,
+  "id": "R950068"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "editor",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "closingFilm",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 26,
+  "is_path": false,
+  "id": "R950142"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "birthPlace",
+    "b"
+   ],
+   [
+    "a",
+    "nationality",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "stateOfOrigin",
+   "b"
+  ],
+  "pca": 0.995730487,
+  "std": 0.38875866,
+  "support": 7463,
+  "is_path": false,
+  "id": "R0557"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "residence",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "house",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 26,
+  "is_path": false,
+  "id": "R950143"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "foundedBy",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "politician",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 29,
+  "is_path": false,
+  "id": "R950046"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "translator",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "magazine",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 29,
+  "is_path": false,
+  "id": "R950066"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "foundedBy",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "aircraftHelicopterUtility",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 29,
+  "is_path": false,
+  "id": "R950121"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "citizenship",
+    "b"
+   ],
+   [
+    "a",
+    "nationality",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "stateOfOrigin",
+   "b"
+  ],
+  "pca": 0.996563574,
+  "std": 0.465863454,
+  "support": 580,
+  "is_path": false,
+  "id": "R0556"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "translator",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "campus",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 29,
+  "is_path": false,
+  "id": "R950141"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "presenter",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "politicalLeader",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 30,
+  "is_path": false,
+  "id": "R950044"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "presenter",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "thirdCommander",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 30,
+  "is_path": false,
+  "id": "R950119"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "location",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "headquarter",
+   "b"
+  ],
+  "pca": 0.723707665,
+  "std": 0.024031801,
+  "support": 12992,
+  "is_path": false,
+  "id": "R0092"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "ethnicGroup",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "musicBy",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 33,
+  "is_path": false,
+  "id": "R950004"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "isPartOf",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "hybrid",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 33,
+  "is_path": false,
+  "id": "R950047"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "university",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "primeMinister",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 33,
+  "is_path": false,
+  "id": "R950048"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "country",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "nationality",
+   "b"
+  ],
+  "pca": 0.820442744,
+  "std": 0.003787086,
+  "support": 3002,
+  "is_path": false,
+  "id": "R0124"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "ethnicGroup",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "currentMember",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 33,
+  "is_path": false,
+  "id": "R950079"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "isPartOf",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "aircraftAttack",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 33,
+  "is_path": false,
+  "id": "R950122"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "university",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "parentOrganisation",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 33,
+  "is_path": false,
+  "id": "R950123"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "ethnicGroup",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "similar",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 33,
+  "is_path": false,
+  "id": "R950154"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "stateOfOrigin",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "nationality",
+   "b"
+  ],
+  "pca": 1.0,
+  "std": 1.0,
+  "support": 49899,
+  "is_path": false,
+  "id": "R0123"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "institution",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "distributingCompany",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 34,
+  "is_path": false,
+  "id": "R950063"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "institution",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "isPartOfMilitaryConflict",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 34,
+  "is_path": false,
+  "id": "R950138"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "hometown",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "ideology",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 37,
+  "is_path": false,
+  "id": "R950019"
+ },
+ {
+  "body_atoms": [
+   [
+    "b",
+    "successor",
+    "a"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "predecessor",
+   "b"
+  ],
+  "pca": 0.835578565,
+  "std": 0.121280195,
+  "support": 30827,
+  "is_path": false,
+  "id": "R0145"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "partner",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "genus",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 37,
+  "is_path": false,
+  "id": "R950024"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "hometown",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "webcast",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 37,
+  "is_path": false,
+  "id": "R950094"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "partner",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "routeJunction",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 37,
+  "is_path": false,
+  "id": "R950099"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "hometown",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "depiction",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 37,
+  "is_path": false,
+  "id": "R950169"
+ },
+ {
+  "body_atoms": [
+   [
+    "h",
+    "homeStadium",
+    "b"
+   ],
+   [
+    "a",
+    "predecessor",
+    "h"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "ground",
+   "b"
+  ],
+  "pca": 0.883077428,
+  "std": 0.853232844,
+  "support": 10755,
+  "is_path": true,
+  "id": "R0756"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "partner",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "firstDriver",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 37,
+  "is_path": false,
+  "id": "R950174"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "distributor",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "channel",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 40,
+  "is_path": false,
+  "id": "R950058"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "distributor",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "politicalPartyOfLeader",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 40,
+  "is_path": false,
+  "id": "R950133"
+ },
+ {
+  "body_atoms": [
+   [
+    "g",
+    "homeStadium",
+    "b"
+   ],
+   [
+    "g",
+    "predecessor",
+    "a"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "ground",
+   "b"
+  ],
+  "pca": 0.883199079,
+  "std": 0.701004697,
+  "support": 10745,
+  "is_path": true,
+  "id": "R0757"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "metropolitanBorough",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "kingdom",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 41,
+  "is_path": false,
+  "id": "R950025"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "metropolitanBorough",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "instrument",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 41,
+  "is_path": false,
+  "id": "R950100"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "metropolitanBorough",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "firstDriverCountry",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 41,
+  "is_path": false,
+  "id": "R950175"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "format",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "philosophicalSchool",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 42,
+  "is_path": false,
+  "id": "R950042"
+ },
+ {
+  "body_atoms": [
+   [
+    "g",
+    "homeStadium",
+    "b"
+   ],
+   [
+    "g",
+    "successor",
+    "a"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "ground",
+   "b"
+  ],
+  "pca": 0.883383134,
+  "std": 0.715736382,
+  "support": 10643,
+  "is_path": true,
+  "id": "R0758"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "format",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "aircraftPatrol",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 42,
+  "is_path": false,
+  "id": "R950117"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "principalArea",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "programmingLanguage",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 43,
+  "is_path": false,
+  "id": "R950036"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "principalArea",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "aircraftHelicopterAttack",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 43,
+  "is_path": false,
+  "id": "R950111"
+ },
+ {
+  "body_atoms": [
+   [
+    "h",
+    "homeStadium",
+    "b"
+   ],
+   [
+    "a",
+    "successor",
+    "h"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "ground",
+   "b"
+  ],
+  "pca": 0.884484335,
+  "std": 0.842009494,
+  "support": 10643,
+  "is_path": true,
+  "id": "R0754"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "nonFictionSubject",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "distributingLabel",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 55,
+  "is_path": false,
+  "id": "R950064"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "nonFictionSubject",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "place",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 55,
+  "is_path": false,
+  "id": "R950139"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "capital",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "basedOn",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 62,
+  "is_path": false,
+  "id": "R950003"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "capital",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "team",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 62,
+  "is_path": false,
+  "id": "R950078"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "homeStadium",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "ground",
+   "b"
+  ],
+  "pca": 0.99251284,
+  "std": 0.990735022,
+  "support": 16040,
+  "is_path": false,
+  "id": "R0171"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "capital",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "spacecraft",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 62,
+  "is_path": false,
+  "id": "R950153"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "namedAfter",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "associatedBand",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 63,
+  "is_path": false,
+  "id": "R950007"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "namedAfter",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "routeEnd",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 63,
+  "is_path": false,
+  "id": "R950082"
+ },
+ {
+  "body_atoms": [
+   [
+    "h",
+    "country",
+    "b"
+   ],
+   [
+    "a",
+    "owningCompany",
+    "h"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "locationCountry",
+   "b"
+  ],
+  "pca": 0.764383562,
+  "std": 0.575257732,
+  "support": 279,
+  "is_path": true,
+  "id": "R0808"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "namedAfter",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "aircraftHelicopterObservation",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 63,
+  "is_path": false,
+  "id": "R950157"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "homepage",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "person",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 67,
+  "is_path": false,
+  "id": "R950057"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "homepage",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "politicalPartyInLegislature",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 67,
+  "is_path": false,
+  "id": "R950132"
+ },
+ {
+  "body_atoms": [
+   [
+    "g",
+    "manufacturer",
+    "a"
+   ],
+   [
+    "g",
+    "origin",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "locationCountry",
+   "b"
+  ],
+  "pca": 0.839662447,
+  "std": 0.079251294,
+  "support": 199,
+  "is_path": true,
+  "id": "R0812"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "network",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "governingBody",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 72,
+  "is_path": false,
+  "id": "R950059"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "network",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "crosses",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 72,
+  "is_path": false,
+  "id": "R950134"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "councilArea",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "order",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 73,
+  "is_path": false,
+  "id": "R950026"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "councilArea",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "service",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 73,
+  "is_path": false,
+  "id": "R950101"
+ },
+ {
+  "body_atoms": [
+   [
+    "h",
+    "country",
+    "b"
+   ],
+   [
+    "a",
+    "locationCity",
+    "h"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "locationCountry",
+   "b"
+  ],
+  "pca": 0.860416667,
+  "std": 0.465942744,
+  "support": 3304,
+  "is_path": true,
+  "id": "R0811"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "councilArea",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "firstDriverTeam",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 73,
+  "is_path": false,
+  "id": "R950176"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "relation",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "soundRecording",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 74,
+  "is_path": false,
+  "id": "R950033"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "relation",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "engineer",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 74,
+  "is_path": false,
+  "id": "R950108"
+ },
+ {
+  "body_atoms": [
+   [
+    "h",
+    "country",
+    "b"
+   ],
+   [
+    "a",
+    "headquarter",
+    "h"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "locationCountry",
+   "b"
+  ],
+  "pca": 0.861883036,
+  "std": 0.064428115,
+  "support": 2078,
+  "is_path": true,
+  "id": "R0809"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "lieutenancyArea",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "family",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 75,
+  "is_path": false,
+  "id": "R950023"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "lieutenancyArea",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "maintainedBy",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 75,
+  "is_path": false,
+  "id": "R950098"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "lieutenancyArea",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "organisation",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 75,
+  "is_path": false,
+  "id": "R950173"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "borough",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "museum",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 76,
+  "is_path": false,
+  "id": "R950032"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "country",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "locationCountry",
+   "b"
+  ],
+  "pca": 0.999805258,
+  "std": 0.006476648,
+  "support": 5134,
+  "is_path": false,
+  "id": "R0192"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "borough",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "creativeDirector",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 76,
+  "is_path": false,
+  "id": "R950107"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "borough",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "fastestDriver",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 76,
+  "is_path": false,
+  "id": "R950182"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "officialLanguage",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "openingTheme",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 77,
+  "is_path": false,
+  "id": "R950006"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "broadcastArea",
+    "b"
+   ],
+   [
+    "a",
+    "country",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "locationCountry",
+   "b"
+  ],
+  "pca": 1.0,
+  "std": 1.0,
+  "support": 142,
+  "is_path": false,
+  "id": "R0806"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "officialLanguage",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "stadium",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 77,
+  "is_path": false,
+  "id": "R950081"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "officialLanguage",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "disease",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 77,
+  "is_path": false,
+  "id": "R950156"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "originalLanguage",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "position",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 83,
+  "is_path": false,
+  "id": "R950054"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "originalLanguage",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "previousEvent",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 83,
+  "is_path": false,
+  "id": "R950129"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "country",
+    "b"
+   ],
+   [
+    "a",
+    "headquarter",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "locationCountry",
+   "b"
+  ],
+  "pca": 1.0,
+  "std": 0.530677291,
+  "support": 1332,
+  "is_path": false,
+  "id": "R0807"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "spokenIn",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "album",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 88,
+  "is_path": false,
+  "id": "R950010"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "spokenIn",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "subsidiary",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 88,
+  "is_path": false,
+  "id": "R950085"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "spokenIn",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "medicalDiagnosis",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 88,
+  "is_path": false,
+  "id": "R950160"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "owner",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "owningOrganisation",
+   "b"
+  ],
+  "pca": 1.0,
+  "std": 0.260793066,
+  "support": 22085,
+  "is_path": false,
+  "id": "R0220"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "mainInterest",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "province",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 89,
+  "is_path": false,
+  "id": "R950051"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "mainInterest",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "nationalAffiliation",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 89,
+  "is_path": false,
+  "id": "R950126"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "televisionSeries",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "gameArtist",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 91,
+  "is_path": false,
+  "id": "R950070"
+ },
+ {
+  "body_atoms": [
+   [
+    "h",
+    "predecessor",
+    "a"
+   ],
+   [
+    "b",
+    "termPeriod",
+    "h"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "successor",
+   "b"
+  ],
+  "pca": 0.752369668,
+  "std": 0.015961271,
+  "support": 3175,
+  "is_path": true,
+  "id": "R0880"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "televisionSeries",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "cpu",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 91,
+  "is_path": false,
+  "id": "R950145"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "influenced",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "hasVariant",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 104,
+  "is_path": false,
+  "id": "R950052"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "influenced",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "openingFilm",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 104,
+  "is_path": false,
+  "id": "R950127"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "related",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "governmentType",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 113,
+  "is_path": false,
+  "id": "R950043"
+ },
+ {
+  "body_atoms": [
+   [
+    "b",
+    "predecessor",
+    "a"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "successor",
+   "b"
+  ],
+  "pca": 0.753200743,
+  "std": 0.11868544,
+  "support": 30827,
+  "is_path": false,
+  "id": "R0223"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "related",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "patron",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 113,
+  "is_path": false,
+  "id": "R950118"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "influencedBy",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "locatedInArea",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 120,
+  "is_path": false,
+  "id": "R950050"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "influencedBy",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "europeanAffiliation",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 120,
+  "is_path": false,
+  "id": "R950125"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "headquarter",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "location",
+   "b"
+  ],
+  "pca": 0.763651325,
+  "std": 0.179363282,
+  "support": 12992,
+  "is_path": false,
+  "id": "R0243"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "executiveProducer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "product",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 123,
+  "is_path": false,
+  "id": "R950040"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "executiveProducer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "colour",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 123,
+  "is_path": false,
+  "id": "R950115"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "differentFrom",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "binomialAuthority",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 130,
+  "is_path": false,
+  "id": "R950021"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "differentFrom",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "projectParticipant",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 130,
+  "is_path": false,
+  "id": "R950096"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "birthPlace",
+    "b"
+   ],
+   [
+    "a",
+    "nationality",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "citizenship",
+   "b"
+  ],
+  "pca": 0.784530387,
+  "std": 0.014793978,
+  "support": 284,
+  "is_path": false,
+  "id": "R0540"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "differentFrom",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "championInDoubleFemale",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 130,
+  "is_path": false,
+  "id": "R950171"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "company",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "productionCompany",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 131,
+  "is_path": false,
+  "id": "R950012"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "company",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "season",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 131,
+  "is_path": false,
+  "id": "R950087"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "birthPlace",
+    "b"
+   ],
+   [
+    "a",
+    "stateOfOrigin",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "citizenship",
+   "b"
+  ],
+  "pca": 0.814371257,
+  "std": 0.018223235,
+  "support": 136,
+  "is_path": false,
+  "id": "R0539"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "company",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "damage",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 131,
+  "is_path": false,
+  "id": "R950162"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "movement",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "architecturalStyle",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 136,
+  "is_path": false,
+  "id": "R950030"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "movement",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "sisterStation",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 136,
+  "is_path": false,
+  "id": "R950105"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "movement",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "thirdDriver",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 136,
+  "is_path": false,
+  "id": "R950180"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "producer",
+    "b"
+   ],
+   [
+    "a",
+    "writer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "director",
+   "b"
+  ],
+  "pca": 0.709652988,
+  "std": 0.271694433,
+  "support": 10307,
+  "is_path": false,
+  "id": "R0639"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "region",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "type",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 187,
+  "is_path": false,
+  "id": "R950017"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "region",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "architect",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 187,
+  "is_path": false,
+  "id": "R950092"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "region",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "event",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 187,
+  "is_path": false,
+  "id": "R950167"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "editing",
+    "b"
+   ],
+   [
+    "a",
+    "producer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "director",
+   "b"
+  ],
+  "pca": 0.877629884,
+  "std": 0.857023061,
+  "support": 2044,
+  "is_path": false,
+  "id": "R0637"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "premierePlace",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "computingPlatform",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 195,
+  "is_path": false,
+  "id": "R950055"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "premierePlace",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "promotion",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 195,
+  "is_path": false,
+  "id": "R950130"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "subject",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "nearestCity",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 210,
+  "is_path": false,
+  "id": "R950031"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "editing",
+    "b"
+   ],
+   [
+    "a",
+    "writer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "director",
+   "b"
+  ],
+  "pca": 0.924523234,
+  "std": 0.909379128,
+  "support": 3442,
+  "is_path": false,
+  "id": "R0636"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "subject",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "builder",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 210,
+  "is_path": false,
+  "id": "R950106"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "subject",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "thirdTeam",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 210,
+  "is_path": false,
+  "id": "R950181"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "award",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "class",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 245,
+  "is_path": false,
+  "id": "R950022"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "award",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "page",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 245,
+  "is_path": false,
+  "id": "R950097"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "cinematography",
+    "b"
+   ],
+   [
+    "a",
+    "writer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "director",
+   "b"
+  ],
+  "pca": 0.933899333,
+  "std": 0.91995221,
+  "support": 1540,
+  "is_path": false,
+  "id": "R0638"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "award",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "championInMixedDouble",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 245,
+  "is_path": false,
+  "id": "R950172"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "series",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "division",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 252,
+  "is_path": false,
+  "id": "R950062"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "series",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "firstLeader",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 252,
+  "is_path": false,
+  "id": "R950137"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "cinematography",
+    "b"
+   ],
+   [
+    "a",
+    "director",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "editing",
+   "b"
+  ],
+  "pca": 0.712357955,
+  "std": 0.349112426,
+  "support": 1003,
+  "is_path": false,
+  "id": "R0657"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "state",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "lyrics",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 254,
+  "is_path": false,
+  "id": "R950038"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "state",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "aircraftHelicopterMultirole",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 254,
+  "is_path": false,
+  "id": "R950113"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "restingPlace",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "splitFromParty",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 303,
+  "is_path": false,
+  "id": "R950020"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "restingPlace",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "projectCoordinator",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 303,
+  "is_path": false,
+  "id": "R950095"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "cinematography",
+    "b"
+   ],
+   [
+    "a",
+    "writer",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "editing",
+   "b"
+  ],
+  "pca": 0.764262648,
+  "std": 0.424133811,
+  "support": 710,
+  "is_path": false,
+  "id": "R0656"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "restingPlace",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "championInSingleFemale",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 303,
+  "is_path": false,
+  "id": "R950170"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "publisher",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "narrator",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 335,
+  "is_path": false,
+  "id": "R950041"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "publisher",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "aircraftTransport",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 335,
+  "is_path": false,
+  "id": "R950116"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "director",
+    "b"
+   ],
+   [
+    "a",
+    "starring",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "writer",
+   "b"
+  ],
+  "pca": 0.79052537,
+  "std": 0.566806182,
+  "support": 3521,
+  "is_path": false,
+  "id": "R0914"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "spouse",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "operator",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 379,
+  "is_path": false,
+  "id": "R950015"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "spouse",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "notableCommander",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 379,
+  "is_path": false,
+  "id": "R950090"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "spouse",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "category",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 379,
+  "is_path": false,
+  "id": "R950165"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "religion",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "artist",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 416,
+  "is_path": false,
+  "id": "R950011"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "director",
+    "b"
+   ],
+   [
+    "a",
+    "editing",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "writer",
+   "b"
+  ],
+  "pca": 0.844248222,
+  "std": 0.674901961,
+  "support": 3442,
+  "is_path": false,
+  "id": "R0913"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "religion",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "usedInWar",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 416,
+  "is_path": false,
+  "id": "R950086"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "religion",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "territory",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 416,
+  "is_path": false,
+  "id": "R950161"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "relative",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "recordedIn",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 553,
+  "is_path": false,
+  "id": "R950029"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "relative",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "aircraftTrainer",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 553,
+  "is_path": false,
+  "id": "R950104"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "relative",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "secondDriver",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 553,
+  "is_path": false,
+  "id": "R950179"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "creator",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "launchVehicle",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 560,
+  "is_path": false,
+  "id": "R950013"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "creator",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "chairman",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 560,
+  "is_path": false,
+  "id": "R950088"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "creator",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "mountainRange",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 560,
+  "is_path": false,
+  "id": "R950163"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "education",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "keyPerson",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 618,
+  "is_path": false,
+  "id": "R950018"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "education",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "programmeFormat",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 618,
+  "is_path": false,
+  "id": "R950093"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "education",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "championInDoubleMale",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 618,
+  "is_path": false,
+  "id": "R950168"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "populationPlace",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "phylum",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 843,
+  "is_path": false,
+  "id": "R950027"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "populationPlace",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "chain",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 843,
+  "is_path": false,
+  "id": "R950102"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "populationPlace",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "secondDriverCountry",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 843,
+  "is_path": false,
+  "id": "R950177"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "almaMater",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "previousMission",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 1030,
+  "is_path": false,
+  "id": "R950016"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "almaMater",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "commander",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 1030,
+  "is_path": false,
+  "id": "R950091"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "almaMater",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "championInSingleMale",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 1030,
+  "is_path": false,
+  "id": "R950166"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "seeAlso",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "formerBandMember",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 1120,
+  "is_path": false,
+  "id": "R950001"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "seeAlso",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "league",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 1120,
+  "is_path": false,
+  "id": "R950076"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "seeAlso",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "deputy",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 1120,
+  "is_path": false,
+  "id": "R950151"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "subdivision",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "recordLabel",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 1144,
+  "is_path": false,
+  "id": "R950002"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "subdivision",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "manager",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 1144,
+  "is_path": false,
+  "id": "R950077"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "subdivision",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "governor",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 1144,
+  "is_path": false,
+  "id": "R950152"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "occupation",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "nextMission",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 2017,
+  "is_path": false,
+  "id": "R950014"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "occupation",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "commandStructure",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 2017,
+  "is_path": false,
+  "id": "R950089"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "occupation",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "champion",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 2017,
+  "is_path": false,
+  "id": "R950164"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "literaryGenre",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "associatedMusicalArtist",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 2417,
+  "is_path": false,
+  "id": "R950008"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "literaryGenre",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "routeStart",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 2417,
+  "is_path": false,
+  "id": "R950083"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "literaryGenre",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "firstPopularVote",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 2417,
+  "is_path": false,
+  "id": "R950158"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "genre",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "endingTheme",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 2793,
+  "is_path": false,
+  "id": "R950005"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "genre",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "coach",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 2793,
+  "is_path": false,
+  "id": "R950080"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "genre",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "picture",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 2793,
+  "is_path": false,
+  "id": "R950155"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "language",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "bandMember",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 3442,
+  "is_path": false,
+  "id": "R950000"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "language",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "discipline",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 3442,
+  "is_path": false,
+  "id": "R950075"
+ },
+ {
+  "body_atoms": [
+   [
+    "a",
+    "language",
+    "b"
+   ]
+  ],
+  "head_atom": [
+   "a",
+   "constituencyDistrict",
+   "b"
+  ],
+  "pca": 0.9,
+  "std": 0.5,
+  "support": 3442,
+  "is_path": false,
+  "id": "R950150"
+ }
+]
