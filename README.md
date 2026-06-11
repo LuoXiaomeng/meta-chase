@@ -1,4 +1,4 @@
-# Meta-Chase (AFF) Engine
+# Meta-Chase (AFF)
 
 This repository accompanies the paper ***From Chase to Meta-Chase***. It contains a
 minimal, runnable implementation of the **Meta-Chase** engine (the
