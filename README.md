@@ -15,7 +15,7 @@ Given a property graph and a set of Graph Association Rules (GARs), the engine r
 task-aware **chase**: it decomposes the rules into tasks, schedules them under a
 policy over a shared overlay, and derives the decision facts `P_out`. It also resolves
 competing values on a functional decision key via **canonicalization** (and a
-two-phase protocol), as described in the paper.
+two-phase protocol).
 
 ## Install
 
