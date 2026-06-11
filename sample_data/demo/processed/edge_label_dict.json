@@ -1,0 +1,10 @@
+{
+  "bornIn": 0,
+  "cityOf": 1,
+  "country": 2,
+  "headquarteredIn": 3,
+  "parentCompany": 4,
+  "locationCountry": 5,
+  "owner": 6,
+  "livesIn": 7
+}

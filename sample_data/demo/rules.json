@@ -1,0 +1,102 @@
+[
+  {
+    "id": "R001",
+    "body_atoms": [
+      [
+        "x",
+        "bornIn",
+        "c"
+      ],
+      [
+        "c",
+        "cityOf",
+        "n"
+      ]
+    ],
+    "head_atom": [
+      "x",
+      "livesIn",
+      "n"
+    ],
+    "pca": 0.95,
+    "support": 100
+  },
+  {
+    "id": "R002",
+    "body_atoms": [
+      [
+        "co",
+        "headquarteredIn",
+        "c"
+      ],
+      [
+        "c",
+        "cityOf",
+        "n"
+      ]
+    ],
+    "head_atom": [
+      "co",
+      "locationCountry",
+      "n"
+    ],
+    "pca": 0.8,
+    "support": 60
+  },
+  {
+    "id": "R003",
+    "body_atoms": [
+      [
+        "co",
+        "country",
+        "n"
+      ]
+    ],
+    "head_atom": [
+      "co",
+      "locationCountry",
+      "n"
+    ],
+    "pca": 0.99,
+    "support": 90
+  },
+  {
+    "id": "R004",
+    "body_atoms": [
+      [
+        "a",
+        "parentCompany",
+        "b"
+      ],
+      [
+        "b",
+        "locationCountry",
+        "n"
+      ]
+    ],
+    "head_atom": [
+      "a",
+      "locationCountry",
+      "n"
+    ],
+    "pca": 0.7,
+    "support": 40
+  },
+  {
+    "id": "R005",
+    "body_atoms": [
+      [
+        "a",
+        "parentCompany",
+        "b"
+      ]
+    ],
+    "head_atom": [
+      "b",
+      "owner",
+      "a"
+    ],
+    "pca": 0.85,
+    "support": 50
+  }
+]

@@ -1,0 +1,88 @@
+# =============================================================================
+# Data directories — never managed by git (use download scripts / LFS instead).
+# =============================================================================
+/data/
+/bin/
+/lib/
+/.idea/
+/.claude/
+/cmake-build-debug/
+/cmake-build-cpu/
+/build/
+
+# Submodule worktrees / third_party checkouts
+/third_party/
+
+# =============================================================================
+# Python bytecode / caches
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# =============================================================================
+# C/C++ build artifacts (defensive — also catches build outputs outside /build/)
+# =============================================================================
+*.o
+*.a
+*.so
+*.dylib
+*.out
+*.obj
+
+# =============================================================================
+# AMIE / rule-mining outputs that are LARGE (>1MB) or pure binaries.
+# Small (<300KB) rule JSON (tools/amie/rules*.json, tools/rule_discovery/*.json)
+# are KEPT — they are experiment dependencies referenced by dataset_config.
+# =============================================================================
+tools/amie/amie3.jar
+tools/amie/*.tsv
+tools/amie/*.err
+tools/amie/dbpedia.tsv
+tools/amie/dbpedia38.tsv
+tools/amie/yago310.tsv
+tools/amie/imdb.tsv
+tools/amie/amie_*.txt
+tools/amie/amie_*.err
+
+# =============================================================================
+# Generic large-data file patterns (defensive — most caught by /data/ already)
+# =============================================================================
+*.gz
+*.zip
+*.tar
+*.tgz
+*.ttl
+*.npz
+*.npy
+*.pkl
+*.log
+
+# =============================================================================
+# Test / toy data outside /data/
+# =============================================================================
+data/toy_graph/
+
+# =============================================================================
+# Experiment outputs and graph caches (existing)
+# =============================================================================
+/cache/
+_graph_cache_*.npz
+ground_truth_*.pkl
+results_*.json
+
+# =============================================================================
+# OS / editor cruft
+# =============================================================================
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+/backup_pre_noGeoLoop/
+paper_exp/data/
+paper_exp/figures/
+third_party/oneTBB
+third_party/yaml-cpp
+tools/gadget/*.json

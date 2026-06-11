@@ -1,0 +1,14 @@
+# Meta-Chase (AFF) engine — runtime dependencies.
+#
+# Only numpy is required (the engine serializes graphs to numpy arrays and the
+# Python VF2 matcher / CSR graph store use it throughout).
+numpy>=1.21
+
+# Optional: a nicer per-round progress bar during the chase. The coordinator
+# degrades gracefully to plain prints if tqdm is absent.
+tqdm>=4.0
+
+# Optional: faster CSV parsing when loading large graphs. graph.py falls back to
+# the stdlib csv module if pandas is not installed, so it is NOT required for the
+# bundled demo (which uses a tiny graph).
+# pandas>=1.3
