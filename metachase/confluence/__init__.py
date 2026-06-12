@@ -12,11 +12,6 @@ from .canon import (
 from .two_phase import (
     split_evidence_decision,
     two_phase_alternate,
-    two_phase_chase,
-    _dependency_strata,
-    _evidence_consumes_p_out,
-    _body_labels,
-    _collect_p_out_from_derived,
 )
 from .community import (
     check_output_commutativity,
@@ -27,7 +22,7 @@ __all__ = [
     # V.B canonicalization + decision logic
     "gar_head_label", "collect_p_out", "decide", "canonicalize",
     # V.C two-phase
-    "split_evidence_decision", "two_phase_alternate", "two_phase_chase",
+    "split_evidence_decision", "two_phase_alternate",
     # V.A community check
     "check_output_commutativity", "check_community_exact",
 ]

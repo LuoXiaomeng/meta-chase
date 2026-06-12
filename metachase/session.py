@@ -87,24 +87,6 @@ class Context:
         return coord, results
 
 
-def task_aware_run(ctx: Context, order, max_rounds, max_matches=0,
-                   to_quiescence=False, max_passes=6, early_commit=False):
-    """Run SCC blocks in `order` sharing one IRS; return (p_out, results, per_task, prov)."""
-    from .aff import AFFConfig, AFFRunner
-    afr = AFFRunner(ctx, AFFConfig(
-        task_source="scc_blocks",
-        order_strategy="custom", custom_order=list(order),
-        sharing="shared",
-        decision_mode=("early_commit" if early_commit else "monotone"),
-        to_quiescence=to_quiescence,
-        max_passes=max_passes,
-        max_rounds=max_rounds,
-        max_matches=max_matches,
-        base_authority=True,
-    )).run()
-    return afr.p_out, afr.all_results, afr.per_task, afr.provenance
-
-
 def _p_out_functionality(graph_dir, p_out_ids, thresh=0.9):
     """Classify each P_out predicate functional (single-valued) vs set-valued from the BASE graph: functionality = #distinct-subjects / #edges (~1 => functional)."""
     import csv as _csv
