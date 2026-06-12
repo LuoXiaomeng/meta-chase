@@ -15,7 +15,8 @@ Given a property graph and a set of Graph Association Rules (GARs), the engine r
 task-aware **chase**: it decomposes the rules into tasks, schedules them under a
 policy over a shared overlay, and derives the decision facts `P_out`. It also resolves
 competing values on a functional decision key via **canonicalization** (and a
-two-phase protocol).
+two-phase protocol). The chase is independent of the
+subgraph-matching backend, a simple Python VF2 matcher is bundled so it runs end-to-end.
 
 ## Install
 
@@ -39,6 +40,17 @@ key and max-PCA canonicalization resolves the conflict. Expected tail:
 RESULT: engine derived 7 P_out facts (6 after canonicalization).
 ```
 
+## Showcase
+
+`experiments/showcase/` holds a few self-contained scripts that showcase the engine on
+the bundled DBpedia data. Each runs end-to-end:
+
+```bash
+python -m experiments.showcase.recall        # output recall
+python -m experiments.showcase.efficiency    # efficiency vs the FF baseline
+python -m experiments.showcase.adaptive      # adaptive scheduling
+```
+
 ## Package layout
 
 ```
@@ -55,5 +67,6 @@ metachase/                       the engine, layered low -> high
   aff/        AFFConfig + AFFRunner (the single chase entry point) + FF baselines
   rules/      AMIE rule loading, SCC clustering, P_out config, dataset registry
   session.py  the shared `Context` (dataset -> graph + rules + tasks)
-  metrics.py  evaluation metrics
+datasets/dbpedia_gamma/          a DBpedia gamma graph + mined rules
+experiments/                     experiment harness + `showcase/` entry points
 ```
